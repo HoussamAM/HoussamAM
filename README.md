@@ -18,7 +18,7 @@
 
 I build **scalable, production-ready web applications** with a focus on performance, security, and user experience.
 
-- 🏆 **Hackathon Winner (1st Place + Internship Offer)**
+- 🏆 **Hackathon Winner (1st Place)**
 - 💻 Strong in **full-stack development** (React, Node.js, TypeScript)
 - ⚙️ Interested in **backend systems, APIs, and system design**
 - 📈 Focused on writing clean, maintainable, real-world code
