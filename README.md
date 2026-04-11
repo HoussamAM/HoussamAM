@@ -8,7 +8,8 @@
 <p align="center">
   <a href="mailto:houssam.aitmoulay17@gmail.com">Email</a> •
   <a href="https://github.com/HoussamAM">GitHub</a> •
-  <a href="https://houssamam.github.io/portfolio/">Portfolio</a>
+  <a href="https://houssamam.github.io/portfolio/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/houssame-eddineaitmoulay/">LinkedIn</a>
 </p>
 
 ---
@@ -107,7 +108,8 @@ I build **scalable, production-ready web applications** with a focus on performa
 
 - Email: houssam.aitmoulay17@gmail.com  
 - Portfolio: https://houssamam.github.io/portfolio/  
-- GitHub: https://github.com/HoussamAM  
+- GitHub: https://github.com/HoussamAM
+- Linkedin: https://www.linkedin.com/in/houssame-eddineaitmoulay/
 
 ---
 
