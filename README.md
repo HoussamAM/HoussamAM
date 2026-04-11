@@ -85,16 +85,7 @@ I build **scalable, production-ready web applications** with a focus on performa
 - Features include **invoicing, expense tracking, financial reporting**
 - Focus on **secure backend architecture and data handling**
 
----
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HoussamAM&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoussamAM&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🎯 Current Focus
 
