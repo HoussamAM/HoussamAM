@@ -105,5 +105,5 @@ I build **scalable, production-ready web applications** with a focus on performa
 ---
 
 <p align="center">
-  <i>“Dima Raja!”</i>
+  <i>“Dima Raja!” 🟢⚪</i>
 </p>
