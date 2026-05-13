@@ -162,5 +162,5 @@ I enjoy solving complex engineering problems — from backend architecture and A
 ---
 
 <p align="center">
-  <i>Dima Raja! 🟢⚪</i>
+  <i>Dima Raja 🟢⚪</i>
 </p>
