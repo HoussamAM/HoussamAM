@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>First-Class Computer Science Student @ Birmingham City University</b><br/>
-  Full-Stack Engineer • AI Systems Developer • Hackathon Winner
+  Full-Stack Engineer • AI Systems Developer • Hackathon Winner • Cybersecurity Enthausiast
 </p>
 
 <p align="center">
