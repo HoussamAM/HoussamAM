@@ -29,7 +29,7 @@ I enjoy solving complex engineering problems — from backend architecture and A
 - 🏆 **1st Place Hackathon Winner**
 - 🧠 Built a **real-time computer vision platform for BMW**
 - 💻 Strong in **full-stack engineering, backend systems, and AI integration**
-- ⚙️ Interested in **system design, infrastructure, and scalable architectures**
+- ⚙️ Interested in **system design, infrastructure, and cybersecurity concepts**
 - 🌍 English, French, Arabic (+ learning German)
 
 ---
