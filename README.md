@@ -1,166 +1,133 @@
-<h1 align="center">Hi, I'm Houssam 👋</h1>
+# Houssame-Eddine Ait Moulay
 
-<p align="center">
-  <b>First-Class Computer Science Student @ Birmingham City University</b><br/>
-  Full-Stack Engineer • AI Systems Developer • Hackathon Winner • Cybersecurity Enthausiast
-</p>
+**First Class Computer Science Student @ Birmingham City University**
+Full-Stack Engineer · AI Systems Developer · Hackathon Winner · Cybersecurity Enthusiast
 
-<p align="center">
-  <a href="mailto:houssam.aitmoulay17@gmail.com">Email</a> •
-  <a href="https://github.com/HoussamAM">GitHub</a> •
-  <a href="https://houssamam.github.io/portfolio/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/houssame-eddineaitmoulay/">LinkedIn</a>
-</p>
+[Email](mailto:houssam.aitmoulay17@gmail.com) · [GitHub](https://github.com/HoussamAM) · [Portfolio](https://houssamam.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/houssame-eddineaitmoulay/)
 
 ---
 
-## 🚀 About Me
+## About me
 
-I build **production-ready software systems** across full-stack web development, AI, and real-time applications.
+I build production-ready software systems — from backend APIs and full-stack web apps to real-time AI pipelines and embedded hardware prototypes.
 
-My focus is on building software that is:
-- scalable
-- secure
-- maintainable
-- actually usable in real-world environments
+- First Class (1:1) academic standing, Year 2
+- Built a real-time computer vision platform for BMW Group Plant Hams Hall — zero additional hardware cost, 0.937 mAP50
+- Won 1st Place at a national competitive hackathon
+- Hands-on offensive security experience across network, web, and Active Directory environments
+- Trilingual: English, French, Arabic (German in progress)
 
-I enjoy solving complex engineering problems — from backend architecture and APIs to computer vision systems and AI integration.
-
-- 🏆 **1st Place Hackathon Winner**
-- 🧠 Built a **real-time computer vision platform for BMW**
-- 💻 Strong in **full-stack engineering, backend systems, and AI integration**
-- ⚙️ Interested in **system design, infrastructure, and cybersecurity concepts**
-- 🌍 English, French, Arabic (+ learning German)
+I care about systems that are reliable, maintainable, and actually useful in the real world. I enjoy working at the intersection of software and physical systems — whether that is computer vision pipelines, embedded hardware, or AI-integrated applications.
 
 ---
 
-## 🧠 Engineering Mindset
+## Tech stack
 
-- I think beyond features and focus on **system reliability, scalability, and performance**
-- I design software with **clean architecture and separation of concerns**
-- I enjoy bridging **software with real-world systems and hardware**
-- I prioritize **maintainability and production-readiness**
-- I like transforming complex workflows into **simple and efficient user experiences**
+**Languages**
+Python · TypeScript · JavaScript · Java · C++ · SQL
 
----
+**Frontend**
+React · Next.js · Tailwind CSS · Shadcn/UI · Vite
 
-## 🛠️ Tech Stack
+**Backend and databases**
+Node.js · FastAPI · Flask · PostgreSQL · Supabase · REST APIs · JWT
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+**AI and computer vision**
+YOLOv8 · OpenCV · PyTorch · ByteTrack · LLM integration
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Shadcn/UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge)
+**DevOps and cloud**
+Docker · CI/CD pipelines · Git/GitHub · Linux · Vercel · Render
 
-### Backend & Infrastructure
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### AI / Computer Vision
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-AI-blue?style=for-the-badge)
-
-### DevOps & Security
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+**Cybersecurity**
+Metasploit · Burp Suite · Nmap · SQLMap · Bloodhound · Wireshark · Vulnerability analysis
 
 ---
 
-## 🌟 Featured Projects
+## Featured projects
 
-### 🚗 Physical Asset Tracking Vision Platform (BMW)
-> Real-time computer vision platform built using existing BMW CCTV infrastructure
+### Physical Asset Tracking Vision Platform — BMW Group Plant Hams Hall
+Real-time computer vision platform built using existing BMW CCTV infrastructure — zero additional hardware cost.
 
-- Developed a **YOLOv8 + ByteTrack** pipeline for persistent multi-camera vehicle tracking
-- Achieved **0.937 mAP50** on a custom-trained detection dataset
-- Implemented **homography mapping** for real-world XYZ coordinate tracking
-- Built a **Flask REST API** connected to a Unity dashboard for live analytics
-- Delivered a **zero-hardware-cost solution** using existing factory infrastructure
+- Fine-tuned YOLOv8m on a custom dataset of 813 images, achieving 0.937 mAP50
+- Integrated ByteTrack for persistent multi-object tracking across four concurrent camera streams
+- Implemented homography mapping to translate 2D pixel coordinates into real-world XYZ floor positions
+- Architected a Flask REST API feeding a Unity 3D dashboard for live plant analytics and anomaly detection
+- Presented full technical architecture and live route heatmap analytics to BMW industry engineers
 
-**Tech:** Python, YOLOv8, OpenCV, ByteTrack, Flask, Unity
-
----
-
-### 🛒 Umrah Marketplace — Hackathon Winner 🏆
-> Multi-vendor e-commerce platform built during a competitive hackathon
-
-- Led development in a **5-person team**
-- Built using **React, TypeScript, Supabase, React Query**
-- Integrated an **AI chatbot assistant** using Claude API
-- Designed a smooth multi-vendor checkout flow
-- Won **1st Place**
+**Stack:** Python · YOLOv8 · OpenCV · ByteTrack · Flask · Unity
 
 ---
 
-### 🏥 GetCare AI — Healthcare Intelligence Platform
-> AI-powered system for transforming unstructured medical data into structured intelligence
+### Umrah Marketplace — 1st Place Hackathon Winner
+Multi-vendor e-commerce platform built end-to-end in a competitive hackathon session.
 
-- Built a full-stack platform using **FastAPI + React**
-- Integrated **LLMs (Groq LLaMA)** for intelligent medical text extraction
-- Designed a **trust-scoring architecture** for hospital validation
-- Implemented scalable caching and modular backend design
+- Led a 5-person team to design and ship the full platform from scratch
+- Engineered a frictionless multi-vendor checkout pipeline using React Query for optimistic UI updates
+- Integrated a live AI chatbot via Claude API for real-time user guidance and booking assistance
+- Designed a gamified loyalty system backed by Supabase with robust client-side validation
 
-**Tech:** FastAPI, React, TypeScript, LLMs
-
----
-
-### 🔗 FileDrop — Secure File Sharing Platform
-> Full-stack application focused on secure and scalable file transfer
-
-- Implemented **JWT authentication, rate limiting, and auto-expiring links**
-- Built REST APIs and file lifecycle management systems
-- Added real-time upload tracking and QR code sharing
-- Managed deployment with **Vercel + Render**
-
-👉 https://filedrop-gules.vercel.app
+**Stack:** React · TypeScript · Tailwind CSS · Shadcn/UI · Supabase · React Query
 
 ---
 
-### 🍳 Smart Cooker MVP
-> Hardware-integrated prototype combining embedded systems and software engineering
+### GetCare AI — Healthcare Intelligence Platform
+AI-powered platform for transforming unstructured medical data into validated structured intelligence.
 
-- Built a functional MVP using **Arduino + C++ + Python**
-- Designed and 3D-printed the physical enclosure
-- Integrated sensors and actuators into a working embedded system
-- Presented during an innovation showcase
+- Built a Python and FastAPI data extraction pipeline using Groq LLaMA for LLM-based text processing
+- Designed a rule-based trust scoring engine to evaluate hospital data and flag inconsistencies automatically
+- Implemented caching and modular architecture to support high-speed natural language querying at scale
 
-👉 https://github.com/HoussamAM/Smart-Cooker
-
----
-
-## 🎯 Current Focus
-
-- 📦 Building scalable, production-grade systems
-- ⚙️ Improving backend architecture & system design skills
-- 🤖 Exploring AI systems, LLM integration, and computer vision
-- ☁️ Learning cloud infrastructure, DevOps, and distributed systems
+**Stack:** FastAPI · React · TypeScript · LLMs (Groq LLaMA)
 
 ---
 
-## 📫 Let's Connect
+### FileDrop — Secure File Sharing Platform
+Full-stack file sharing application with security built in from the ground up.
 
-- Email: houssam.aitmoulay17@gmail.com  
-- Portfolio: https://houssamam.github.io/portfolio/  
-- GitHub: https://github.com/HoussamAM
-- LinkedIn: https://www.linkedin.com/in/houssame-eddineaitmoulay/
+- JWT authentication, rate limiting, and automated scheduled cleanup as core architectural decisions
+- Drag-and-drop interface with real-time upload progress tracking and instant QR code generation
+- Auto-expiring shareable download links with full CI/CD lifecycle managed across Vercel and Render
+
+**Live:** https://filedrop-gules.vercel.app · **Stack:** React · Node.js · Express · PostgreSQL · Supabase
 
 ---
 
-<p align="center">
-  <i>DIMA RAJA 🟢⚪</i>
-</p>
+### Smart Cooker MVP — Innovation Fest Showcase
+Hardware-integrated embedded systems prototype built from circuit design to finished physical product.
+
+- Developed embedded control logic in C++ and Python, integrating sensors and actuators via Arduino
+- Implemented state machine architecture for real-time sensor input and actuator output management
+- Designed and 3D-printed the product housing using CAD, aligning mechanical structure with internal electronics
+
+**Repo:** https://github.com/HoussamAM/Smart-Cooker · **Stack:** C++ · Python · Arduino · CAD · 3D printing
+
+---
+
+### Offensive Security and Pentesting Lab
+Authorized red-team engagements across network, web application, and Active Directory environments.
+
+- Full attack lifecycle: reconnaissance, exploitation, post-exploitation, and reporting
+- Network enumeration with Nmap, packet-level analysis with Wireshark, web app auditing with Burp Suite and SQLMap
+- Active Directory attack path mapping using Bloodhound and Impacket for lateral movement simulation
+- Payload development and credential recovery using Metasploit and Hashcat
+
+**Environment:** Authorized sandboxed lab · **Stack:** Metasploit · Burp Suite · Nmap · SQLMap · Bloodhound · Wireshark
+
+---
+
+## Certifications and awards
+
+- Python Bootcamp — 1st Place
+- CCNA: Introduction to Networks
+- BCU Cybersecurity 2026
+
+---
+
+## Contact
+
+houssam.aitmoulay17@gmail.com
+https://houssamam.github.io/portfolio/
+
+---
+
+*DIMA RAJA*
